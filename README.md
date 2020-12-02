@@ -33,9 +33,9 @@ Over 10 hours of instruction, spread over two weeks, we seek to introduce the le
 
 Pre-course materials as well as in-class exercises will cover the following topic areas:
 
-- Git/GitHub
 - Bash
 - R
+- Git/GitHub
 - Jupyter Notebooks
 - Conda
 - Docker
