@@ -22,3 +22,9 @@
 
 <br/><br/>                                                     
 
+
+
+## Additional resources:
+
+- Lifebit CloudOS documentation for the JupyterLab interface: https://lifebit.gitbook.io/cloudos/web-interface/jupyter-lab
+- Official documentation from project JupyterLab: https://jupyterlab.readthedocs.io/en/stable/ 
