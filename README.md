@@ -35,10 +35,10 @@ Pre-course materials as well as in-class exercises will cover the following topi
 
 - Git/GitHub
 - Bash
-- Docker
 - R
 - Jupyter Notebooks
 - Conda
+- Docker
 - Nextflow
 
 # PLATFORM
