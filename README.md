@@ -10,7 +10,7 @@
 ## SCHEDULE
 This virtual course will take place from 12:00 to 2:00 pm (Eastern Time) over five nonconsecutive days:
 
-1. Wednesday, December 2 ([Agenda](classes/class_1.md))
+1. Wednesday, December 2 ([Agenda](classes/class_1/README.md))
 2. Friday, December 4
 3. Monday, December 7
 4. Wednesday, December 9
