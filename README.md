@@ -7,6 +7,8 @@
 
 ![](assets/header.png)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4302133.svg)](https://doi.org/10.5281/zenodo.4302133)
+
 ## SCHEDULE
 This virtual course will take place from 12:00 to 2:00 pm (Eastern Time) over five nonconsecutive days:
 
