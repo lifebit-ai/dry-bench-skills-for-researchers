@@ -10,11 +10,12 @@
 ## SCHEDULE
 This virtual course will take place from 12:00 to 2:00 pm (Eastern Time) over five nonconsecutive days:
 
-Wednesday, December 2
-Friday, December 4
-Monday, December 7
-Wednesday, December 9
-Friday, December 11
+1. Wednesday, December 2 ([Agenda](classes/class_1.md))
+2. Friday, December 4
+3. Monday, December 7
+4. Wednesday, December 9
+5. Friday, December 11
+
 There will be an optional pre-event tutoring session on Tuesday, December 1 from 12:00 - 2:00 pm
 
 ## INSTRUCTORS
