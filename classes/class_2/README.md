@@ -27,8 +27,8 @@
 
 ## Additional resources:
 
+- GitHub Overall Tutorials and Guides https://guides.github.com/
 - GitHub Hello World: https://guides.github.com/activities/hello-world/
 - Very Happy Git and GitHub for the useR by Jenny Bryan: https://happygitwithr.com/
-
 
 - Test fetching information from the remote upstream
