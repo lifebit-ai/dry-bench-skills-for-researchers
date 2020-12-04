@@ -29,3 +29,6 @@
 
 - GitHub Hello World: https://guides.github.com/activities/hello-world/
 - Happy Git and GitHub for the useR by Jenny Bryan: https://happygitwithr.com/
+
+
+- Test fetching information from the remote upstream
