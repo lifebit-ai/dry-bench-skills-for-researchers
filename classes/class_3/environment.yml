@@ -1,0 +1,11 @@
+name: my-new-env
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - python
+  - r-base
+  - r-devtools=2.2
+  - r-data.table
+
