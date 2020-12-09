@@ -1,0 +1,62 @@
+Dec-09 15:47:49.434 [main] DEBUG nextflow.cli.Launcher - $> nextflow run main.nf --fastq_list fastq_files_list.csv
+Dec-09 15:47:49.695 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.07.1
+Dec-09 15:47:49.757 [main] INFO  nextflow.cli.CmdRun - Launching `main.nf` [prickly_tuckerman] - revision: 4491da30a5
+Dec-09 15:47:50.151 [main] DEBUG nextflow.Session - Session uuid: 59bf0e36-ca09-4294-8998-7640f71db783
+Dec-09 15:47:50.151 [main] DEBUG nextflow.Session - Run name: prickly_tuckerman
+Dec-09 15:47:50.156 [main] DEBUG nextflow.Session - Executor pool size: 4
+Dec-09 15:47:50.232 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 20.07.1 build 5412
+  Created: 24-07-2020 15:18 UTC (16:18 BST)
+  System: Mac OS X 10.14.6
+  Runtime: Groovy 2.5.11 on OpenJDK 64-Bit Server VM 11.0.2+9
+  Encoding: UTF-8 (UTF-8)
+  Process: 64968@192.168.1.4 [192.168.1.4]
+  CPUs: 4 - Mem: 16 GB (22.2 MB) - Swap: 7 GB (1.3 GB)
+Dec-09 15:47:50.260 [main] DEBUG nextflow.Session - Work-dir: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work [Mac OS X]
+Dec-09 15:47:50.261 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/bin
+Dec-09 15:47:50.329 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+Dec-09 15:47:50.331 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Dec-09 15:47:50.548 [main] DEBUG nextflow.Session - Session start invoked
+Dec-09 15:47:51.364 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Dec-09 15:47:51.385 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: fastqc
+Dec-09 15:47:51.762 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Dec-09 15:47:51.762 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Dec-09 15:47:51.769 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+Dec-09 15:47:51.784 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=16 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+Dec-09 15:47:51.996 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+Dec-09 15:47:51.997 [main] DEBUG nextflow.Session - Session await
+Dec-09 15:47:52.077 [Actor Thread 3] DEBUG n.util.BlockingThreadExecutorFactory - Thread pool name=FileTransfer; maxThreads=12; maxQueueSize=36; keepAlive=1m
+Dec-09 15:47:52.088 [FileTransfer-thread-1] DEBUG nextflow.file.FilePorter - Local cache found for foreign file ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR908/ERR908503/ERR908503_1.fastq.gz at /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/stage/56/6697ebf8da69e22bd462e4e9daff13/ERR908503_1.fastq.gz
+Dec-09 15:47:52.089 [FileTransfer-thread-2] DEBUG nextflow.file.FilePorter - Local cache found for foreign file ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR908/ERR908503/ERR908503_2.fastq.gz at /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/stage/ff/c6c7714b72b6dd64e48548fec18f9c/ERR908503_2.fastq.gz
+Dec-09 15:47:52.249 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Dec-09 15:47:52.259 [Task submitter] INFO  nextflow.Session - [8d/ac68ec] Submitted process > fastqc (ERR908503)
+Dec-09 15:47:52.497 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: fastqc (ERR908503); status: COMPLETED; exit: 127; error: -; workDir: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/8d/ac68ecd13cbfc514dbd7da80ad1319]
+Dec-09 15:47:52.525 [Task monitor] ERROR nextflow.processor.TaskProcessor - Error executing process > 'fastqc (ERR908503)'
+
+Caused by:
+  Process `fastqc (ERR908503)` terminated with an error exit status (127)
+
+Command executed:
+
+  fastqc ERR908503_1.fastq.gz ERR908503_2.fastq.gz
+
+Command exit status:
+  127
+
+Command output:
+  (empty)
+
+Command error:
+  .command.sh: line 2: fastqc: command not found
+
+Work dir:
+  /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/8d/ac68ecd13cbfc514dbd7da80ad1319
+
+Tip: you can replicate the issue by changing to the process work dir and entering the command `bash .command.run`
+Dec-09 15:47:52.533 [main] DEBUG nextflow.Session - Session await > all process finished
+Dec-09 15:47:52.534 [Task monitor] DEBUG nextflow.Session - Session aborted -- Cause: Process `fastqc (ERR908503)` terminated with an error exit status (127)
+Dec-09 15:47:52.571 [main] DEBUG nextflow.Session - Session await > all barriers passed
+Dec-09 15:47:52.582 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=1; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=180ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=1; peakCpus=1; peakMemory=0; ]
+Dec-09 15:47:52.751 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+Dec-09 15:47:52.763 [main] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Dec-09 15:47:52.797 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

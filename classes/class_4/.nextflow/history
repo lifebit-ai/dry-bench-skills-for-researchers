@@ -1,0 +1,20 @@
+2020-12-09 15:25:11	3.7s	awesome_carson	OK	b53e528bf247f7447afcca7bf3117685	680a7f76-7260-43a9-8a58-b4017420c301	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:25:25	3s	romantic_boyd	OK	cf38e2445be576e972d9be32e5618110	115afbef-9066-42cd-9a71-9265cadc2646	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:27:07	-	crazy_pike	-	ef152b7b77ea82a58eb3ada7681b75e4	27ad5497-2890-4dd7-8346-8f36e46d75db	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:27:22	1.9s	fervent_shirley	ERR	dd084c94b35de3e293ac1883f0ef1fc2	7c244371-9114-4c36-a6f7-6ff5f0c7a3f2	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:27:51	1.8s	desperate_solvay	ERR	14f24c8f01c691275240a636e0c72fa1	c09dbca0-0718-4bf5-9e35-977ecaa04936	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:28:23	2.8s	serene_engelbart	ERR	ade01b51f49489670db93aed91c952a1	4ac418fc-1329-4c9f-81e3-03125d519c92	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:29:56	2.1s	dreamy_newton	ERR	c4d8b4c03b412f2a6a29071c8408d297	04fe5e99-0bb3-437d-89a1-57e8c9c13ef6	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:30:13	-	modest_swirles	-	604bb95b6a4937409cd525b56b84b408	d7b2fc14-305d-46ea-8698-303fddf27b1f	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:30:25	-	hopeful_montalcini	-	42b6b468cd79d431459927dac5cdbb41	da00217d-b4bb-4cf5-ace3-94c1e69e3769	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:30:44	-	big_pare	-	ad5722fc54bdd4434f124cc654c22346	026388f5-017e-47c9-a107-72b6f05bbbb9	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:31:30	-	chaotic_northcutt	-	278a4e1b208e84ec77a7dd75772b090a	d55d9399-d1e8-4ab7-9518-0b0354c8f0cd	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:31:44	2.2s	hopeful_thompson	OK	a519cbd7329f03b459303b1643411d47	54300df6-a4d5-4fb8-9298-1dd85801991b	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:32:24	3.7s	suspicious_chandrasekhar	OK	56a791321ffe2bbedcea54750857815f	88cb5978-f259-4ebb-9435-9620ec2d3852	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:32:57	2.2s	nostalgic_church	OK	56a791321ffe2bbedcea54750857815f	7d122a0d-3c18-458e-9208-8367318a7a4e	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:37:25	2.6s	marvelous_nightingale	ERR	e1731e7160ad4d054ab3c68ff8e38532	9e9f442d-3b3c-4843-a64e-72603151e079	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:43:48	3s	sharp_cuvier	ERR	5552620fba6d03170604b1857f8c46ea	d52c9338-0e54-45f9-a407-59f88c3ec7c6	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:44:01	3.3s	backstabbing_nightingale	OK	b70dce4eb7c616fe30d728a2be050a69	682c60d7-146b-4da3-b706-11cee43d873f	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:47:50	2.8s	prickly_tuckerman	ERR	4491da30a5a52cebca003e7198e5be2e	59bf0e36-ca09-4294-8998-7640f71db783	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 15:50:14	5m 16s	evil_miescher	ERR	4491da30a5a52cebca003e7198e5be2e	e85c5d17-cc9e-49e5-bac8-6a8e4bd6bfc7	nextflow run main.nf --fastq_list fastq_files_list.csv
+2020-12-09 16:45:29	13.8s	crazy_golick	ERR	4ad91b01de706f5ed6cb2bfd2cad4221	19844aea-2fae-4187-a294-b54c1da83150	nextflow run main.nf --fastq_list fastq_files_list.csv

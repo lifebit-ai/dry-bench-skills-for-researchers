@@ -1,0 +1,62 @@
+Dec-09 15:43:48.142 [main] DEBUG nextflow.cli.Launcher - $> nextflow run main.nf --fastq_list fastq_files_list.csv
+Dec-09 15:43:48.355 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.07.1
+Dec-09 15:43:48.382 [main] INFO  nextflow.cli.CmdRun - Launching `main.nf` [sharp_cuvier] - revision: 5552620fba
+Dec-09 15:43:48.553 [main] DEBUG nextflow.Session - Session uuid: d52c9338-0e54-45f9-a407-59f88c3ec7c6
+Dec-09 15:43:48.553 [main] DEBUG nextflow.Session - Run name: sharp_cuvier
+Dec-09 15:43:48.555 [main] DEBUG nextflow.Session - Executor pool size: 4
+Dec-09 15:43:48.608 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 20.07.1 build 5412
+  Created: 24-07-2020 15:18 UTC (16:18 BST)
+  System: Mac OS X 10.14.6
+  Runtime: Groovy 2.5.11 on OpenJDK 64-Bit Server VM 11.0.2+9
+  Encoding: UTF-8 (UTF-8)
+  Process: 62925@192.168.1.4 [192.168.1.4]
+  CPUs: 4 - Mem: 16 GB (54 MB) - Swap: 7 GB (1.2 GB)
+Dec-09 15:43:48.632 [main] DEBUG nextflow.Session - Work-dir: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work [Mac OS X]
+Dec-09 15:43:48.633 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/bin
+Dec-09 15:43:48.714 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+Dec-09 15:43:48.717 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Dec-09 15:43:48.972 [main] DEBUG nextflow.Session - Session start invoked
+Dec-09 15:43:49.549 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Dec-09 15:43:49.574 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: verify_files_are_retrieved
+Dec-09 15:43:49.842 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Dec-09 15:43:49.843 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Dec-09 15:43:49.850 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+Dec-09 15:43:49.857 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=16 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+Dec-09 15:43:50.112 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+Dec-09 15:43:50.112 [main] DEBUG nextflow.Session - Session await
+Dec-09 15:43:50.217 [Actor Thread 1] DEBUG n.util.BlockingThreadExecutorFactory - Thread pool name=FileTransfer; maxThreads=12; maxQueueSize=36; keepAlive=1m
+Dec-09 15:43:50.227 [FileTransfer-thread-1] DEBUG nextflow.file.FilePorter - Local cache found for foreign file ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR908/ERR908503/ERR908503_1.fastq.gz at /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/stage/56/6697ebf8da69e22bd462e4e9daff13/ERR908503_1.fastq.gz
+Dec-09 15:43:50.235 [FileTransfer-thread-2] DEBUG nextflow.file.FilePorter - Local cache found for foreign file ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR908/ERR908503/ERR908503_2.fastq.gz at /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/stage/ff/c6c7714b72b6dd64e48548fec18f9c/ERR908503_2.fastq.gz
+Dec-09 15:43:50.390 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Dec-09 15:43:50.397 [Task submitter] INFO  nextflow.Session - [a4/8577b9] Submitted process > verify_files_are_retrieved (ERR908503)
+Dec-09 15:43:50.651 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: verify_files_are_retrieved (ERR908503); status: COMPLETED; exit: 0; error: -; workDir: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/a4/8577b9a1271942d7b0018286f4f496]
+Dec-09 15:43:50.718 [Task monitor] ERROR nextflow.processor.TaskProcessor - Error executing process > 'verify_files_are_retrieved (ERR908503)'
+
+Caused by:
+  Missing output file(s) `*_1.fastq.gz` expected by process `verify_files_are_retrieved (ERR908503)` (note: input files are not included in the default matching set)
+
+Command executed:
+
+  # List the files in the process to verify they have been retrieved
+  ls -lL
+
+Command exit status:
+  0
+
+Command output:
+  total 38928
+  -rw-r--r--  1 admin  staff  9720000  9 Dec 15:31 ERR908503_1.fastq.gz
+  -rw-r--r--  1 admin  staff  9152768  9 Dec 15:31 ERR908503_2.fastq.gz
+
+Work dir:
+  /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/a4/8577b9a1271942d7b0018286f4f496
+
+Tip: when you have fixed the problem you can continue the execution adding the option `-resume` to the run command line
+Dec-09 15:43:50.728 [main] DEBUG nextflow.Session - Session await > all process finished
+Dec-09 15:43:50.731 [Task monitor] DEBUG nextflow.Session - Session aborted -- Cause: Missing output file(s) `*_1.fastq.gz` expected by process `verify_files_are_retrieved (ERR908503)` (note: input files are not included in the default matching set)
+Dec-09 15:43:50.808 [main] DEBUG nextflow.Session - Session await > all barriers passed
+Dec-09 15:43:50.819 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=1; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=153ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=1; peakCpus=1; peakMemory=0; ]
+Dec-09 15:43:50.942 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+Dec-09 15:43:50.951 [main] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Dec-09 15:43:50.979 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

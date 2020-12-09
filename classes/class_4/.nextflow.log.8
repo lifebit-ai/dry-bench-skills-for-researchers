@@ -1,0 +1,39 @@
+Dec-09 15:31:43.572 [main] DEBUG nextflow.cli.Launcher - $> nextflow run main.nf --fastq_list fastq_files_list.csv
+Dec-09 15:31:43.782 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 20.07.1
+Dec-09 15:31:43.813 [main] INFO  nextflow.cli.CmdRun - Launching `main.nf` [hopeful_thompson] - revision: a519cbd732
+Dec-09 15:31:44.073 [main] DEBUG nextflow.Session - Session uuid: 54300df6-a4d5-4fb8-9298-1dd85801991b
+Dec-09 15:31:44.073 [main] DEBUG nextflow.Session - Run name: hopeful_thompson
+Dec-09 15:31:44.077 [main] DEBUG nextflow.Session - Executor pool size: 4
+Dec-09 15:31:44.160 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 20.07.1 build 5412
+  Created: 24-07-2020 15:18 UTC (16:18 BST)
+  System: Mac OS X 10.14.6
+  Runtime: Groovy 2.5.11 on OpenJDK 64-Bit Server VM 11.0.2+9
+  Encoding: UTF-8 (UTF-8)
+  Process: 60662@192.168.1.4 [192.168.1.4]
+  CPUs: 4 - Mem: 16 GB (42.8 MB) - Swap: 7 GB (944.8 MB)
+Dec-09 15:31:44.190 [main] DEBUG nextflow.Session - Work-dir: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work [Mac OS X]
+Dec-09 15:31:44.190 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/bin
+Dec-09 15:31:44.269 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+Dec-09 15:31:44.272 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Dec-09 15:31:44.508 [main] DEBUG nextflow.Session - Session start invoked
+Dec-09 15:31:45.177 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Dec-09 15:31:45.198 [main] DEBUG nextflow.Session - Workflow process names [dsl1]: verify_file_is_retrieved
+Dec-09 15:31:45.461 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Dec-09 15:31:45.461 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Dec-09 15:31:45.469 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+Dec-09 15:31:45.478 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=16 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+Dec-09 15:31:45.628 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+Dec-09 15:31:45.628 [main] DEBUG nextflow.Session - Session await
+Dec-09 15:31:45.701 [Actor Thread 3] DEBUG n.util.BlockingThreadExecutorFactory - Thread pool name=FileTransfer; maxThreads=12; maxQueueSize=36; keepAlive=1m
+Dec-09 15:31:45.708 [FileTransfer-thread-1] DEBUG nextflow.file.FilePorter - Local cache found for foreign file ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR908/ERR908503/ERR908503_1.fastq.gz at /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/stage/56/6697ebf8da69e22bd462e4e9daff13/ERR908503_1.fastq.gz
+Dec-09 15:31:45.709 [FileTransfer-thread-2] DEBUG nextflow.file.FilePorter - Local cache found for foreign file ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR908/ERR908503/ERR908503_2.fastq.gz at /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/stage/ff/c6c7714b72b6dd64e48548fec18f9c/ERR908503_2.fastq.gz
+Dec-09 15:31:45.845 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Dec-09 15:31:45.852 [Task submitter] INFO  nextflow.Session - [77/4888e5] Submitted process > verify_file_is_retrieved (ERR908503)
+Dec-09 15:31:46.012 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: verify_file_is_retrieved (ERR908503); status: COMPLETED; exit: 0; error: -; workDir: /Users/admin/lifebit-ai/dry-bench-skills-for-researchers/classes/class_4/work/77/4888e5ae715e4335e1c01e537e932b]
+Dec-09 15:31:46.026 [main] DEBUG nextflow.Session - Session await > all process finished
+Dec-09 15:31:46.027 [main] DEBUG nextflow.Session - Session await > all barriers passed
+Dec-09 15:31:46.038 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=1; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=101ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=1; peakCpus=1; peakMemory=0; ]
+Dec-09 15:31:46.164 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+Dec-09 15:31:46.183 [main] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Dec-09 15:31:46.218 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
