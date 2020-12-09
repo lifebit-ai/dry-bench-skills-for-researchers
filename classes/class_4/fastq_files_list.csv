@@ -1,0 +1,2 @@
+accession,fastq_1,fastq_2
+ERR908503,https://github.com/lifebit-ai/jax-tutorial/raw/2b/testdata/test.20k_reads_1.fastq.gz,https://github.com/lifebit-ai/jax-tutorial/raw/2b/testdata/test.20k_reads_2.fastq.gz
