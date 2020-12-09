@@ -12,9 +12,9 @@
 ## SCHEDULE
 This virtual course will take place from 12:00 to 2:00 pm (Eastern Time) over five nonconsecutive days:
 
-1. Wednesday, December 2 ([Agenda](classes/class_1/README.md)) ✅ ([Slides](assets/DryBenchResearcherDay1.pdf)) ✅ ([Recording] 
-2. Friday, December 4 ([Agenda](classes/class_2/README.md)) ✅ ([Slides](assets/DryBenchResearcherDay2.pdf)) ✅ ([Recording]
-3. Monday, December 7 ([Agenda](classes/class_3/README.md)) ✅ ([Slides](assets/DryBenchResearcherDay3.pdf)) ✅ ([Recording](https://vimeo.com/488539316/fe1fbea579))
+1. Wednesday, December 2 ([Agenda](classes/class_1/README.md)) ✅ ([Slides](assets/DryBenchResearcherDay1.pdf)) ✅ ([Recording](https://vimeo.com/486838280/7ed3c2fa40)) ✅ 
+2. Friday, December 4 ([Agenda](classes/class_2/README.md)) ✅ ([Slides](assets/DryBenchResearcherDay2.pdf)) ✅ ([Recording](https://vimeo.com/488116603/d644fbab2f)) ✅ 
+3. Monday, December 7 ([Agenda](classes/class_3/README.md)) ✅ ([Slides](assets/DryBenchResearcherDay3.pdf)) ✅ ([Recording](https://vimeo.com/488539316/fe1fbea579)) ✅ 
 4. Wednesday, December 9
 5. Friday, December 11
 
