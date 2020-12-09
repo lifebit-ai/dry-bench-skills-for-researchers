@@ -25,7 +25,7 @@ But once you have that information, you would like to know more details say abou
 
 A real gem for getting the specific download details - which are also multiple - including the SraToolkit.  But if you would like to download the fastq files to your laptop or to a server at your university, you would enjoy using [SRA Explorer](https://sra-explorer.info/).  
 
-In this case, the project *PRJNA637623* is put in the search line of the [SRA Explorer](https://sra-explorer.info).  Shown in the following gif how to find sequences using this method is [here](../../../assets/SRARunExplorerGettingAllRunsForAProject.gif)
+In this case, the project **PRJNA637623** is put in the search line of the [SRA Explorer](https://sra-explorer.info).  Shown in the following gif how to find sequences using this method is [here](../../../assets/SRARunExplorerGettingAllRunsForAProject.gif)
 
 
 
