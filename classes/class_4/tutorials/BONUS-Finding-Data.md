@@ -15,11 +15,11 @@ The [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) is whe
 
 ## Searching for Sequences
 
-It is difficult to search the SRA with metadata terms but searching with metadata terms is straight forward with the ENA. Try typing into the search window the following terms **"lung cancer cell lines"**.  You will see returned a number of experiments that you can feel free to explore.  [ENA searching with broad terms.](../../../assets/ENAGettingExperimentsForAnalysisUsingSearch.gif)
+It is difficult to search the SRA with metadata terms but searching with metadata terms is straight forward with the ENA. Try typing into the search window the following terms **"lung cell lines rna-seq"** into the [ENA search window](https://www.ebi.ac.uk/ena/browser/home).   You will see returned a number of experiments that you can feel free to explore.  [ENA searching with broad terms.](../../../assets/ENAGettingExperimentsForAnalysisUsingSearch.gif)
 
-Once you have some details. Say a run accession, these are prefaced with SRR, you can search the [ENA to find more details](../../../assets/ENAGettingAllRunsAssociatedWithAnSRR.gif).   
+Once you have some details. Say a run accession, these are prefaced with SRR, you can search the ENA for more details.  For example, we see from the above one run, but we would like to find perhaps the entire project that is associated with it.  Try typing **SRR11936515** into [ENA search window](https://www.ebi.ac.uk/ena/browser/home) to find more details.  [ENA to find more details](../../../assets/ENAGettingAllRunsAssociatedWithAnSRR.gif).   
 
-But once you have that information, you would like to know more details say about the project.  There are like in all things, multiple ways of achieving that end.   I find ENA not the best for getting at those project details, but back at the [Sequence Read Archive, you can expand on these project details](../../../assets/SRAGettingMoreDetailsOnTheProject.gif).  Of course, you should read the paper to get the exact methods. 
+We see, that the project is **PRJNA637623**, the project identifiers are prefaced with **PRJNA**, like the accessions for a sequence read run are prefaced with **SRR**.  Now that we know the project number and you would like to know more details say about the project, you can find out about it.  There are like in all things, multiple ways of achieving that end.   I find ENA not the best for getting at those project details, but back at the [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) you can enter that project number and see the project description provided by the submitter as shown here. [Sequence Read Archive, you can expand on these project details](../../../assets/SRAGettingMoreDetailsOnTheProject.gif).  Of course, you should read the paper to get the exact methods. 
 
 ## SRA Explorer
 
