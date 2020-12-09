@@ -15,15 +15,15 @@ The [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) is whe
 
 ## Searching for Sequences
 
-It is difficult to search the SRA with metadata terms but searching with metadata terms is straight forward with [ENA searching with broad terms](assets/ENAGettingExperimentsForAnalysisUsingSearch.gif)
+It is difficult to search the SRA with metadata terms but searching with metadata terms is straight forward with [ENA searching with broad terms](../../../assets/ENAGettingExperimentsForAnalysisUsingSearch.gif)
 
-Once you have some details. Say a run accession, these are prefaced with SRR, you can search the [ENA to find more details](assets/ENAGettingAllRunsAssociatedWithAnSRR.gif).   
+Once you have some details. Say a run accession, these are prefaced with SRR, you can search the [ENA to find more details](../../../assets/ENAGettingAllRunsAssociatedWithAnSRR.gif).   
 
-But once you have that information, you would like to know more details say about the project.  There are like in all things, multiple ways of achieving that end.   I find ENA not the best for getting at those project details, but back at the [Sequence Read Archive, you can expand on these project details](assets/SRAGettingMoreDetailsOnTheProject.gif).  Of course, you should read the paper to get the exact methods. 
+But once you have that information, you would like to know more details say about the project.  There are like in all things, multiple ways of achieving that end.   I find ENA not the best for getting at those project details, but back at the [Sequence Read Archive, you can expand on these project details](../../../assets/SRAGettingMoreDetailsOnTheProject.gif).  Of course, you should read the paper to get the exact methods. 
 
 ## SRA Explorer
 
-A real gem for getting the specific download details - which are also multiple - including the SraToolkit.  But if you would like to download the fastq files to your laptop or to a server at your university, you would enjoy using [SRA Explorer](https://sra-explorer.info/).   Demonstrating how to find sequences using this method is [here](assets/SRARunExplorerGettingAllRunsForAProject.gif)
+A real gem for getting the specific download details - which are also multiple - including the SraToolkit.  But if you would like to download the fastq files to your laptop or to a server at your university, you would enjoy using [SRA Explorer](https://sra-explorer.info/).   Demonstrating how to find sequences using this method is [here](../../../assets/SRARunExplorerGettingAllRunsForAProject.gif)
 
 
 
