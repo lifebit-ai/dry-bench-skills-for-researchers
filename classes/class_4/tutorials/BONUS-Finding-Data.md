@@ -15,7 +15,7 @@ The [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) is whe
 
 ## Searching for Sequences
 
-It is difficult to search the SRA with metadata terms but searching with metadata terms is straight forward with [ENA searching with broad terms](../../../assets/ENAGettingExperimentsForAnalysisUsingSearch.gif)
+It is difficult to search the SRA with metadata terms but searching with metadata terms is straight forward with the ENA. Try typing into the search window the following terms **"lung cancer cell lines"**.  You will see returned a number of experiments that you can feel free to explore.  [ENA searching with broad terms.](../../../assets/ENAGettingExperimentsForAnalysisUsingSearch.gif)
 
 Once you have some details. Say a run accession, these are prefaced with SRR, you can search the [ENA to find more details](../../../assets/ENAGettingAllRunsAssociatedWithAnSRR.gif).   
 
@@ -25,7 +25,9 @@ But once you have that information, you would like to know more details say abou
 
 A real gem for getting the specific download details - which are also multiple - including the SraToolkit.  But if you would like to download the fastq files to your laptop or to a server at your university, you would enjoy using [SRA Explorer](https://sra-explorer.info/).  
 
-In this case, the project **PRJNA637623** is put in the search line of the [SRA Explorer](https://sra-explorer.info).  Shown in the following gif how to find sequences using this method is [here](../../../assets/SRARunExplorerGettingAllRunsForAProject.gif)
+In this case, the project **PRJNA637623** is put in the search line of the [SRA Explorer](https://sra-explorer.info).  Feel free to cut and paste the **PRJNA** number into the SRA Explorer window to reproduce those steps.
+
+Also shown in the following gif how to find sequences using this method is [here](../../../assets/SRARunExplorerGettingAllRunsForAProject.gif)
 
 
 
