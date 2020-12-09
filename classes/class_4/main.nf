@@ -28,27 +28,6 @@ Channel
     .splitCsv(sep: ',', skip: 1)
     .map { accession, fastq1, fastq2 -> [ accession, file(fastq1), file(fastq2) ] }
     .set { ch_fastq_files }
-    
-
-// Re-usable process skeleton that performs a simple operation, listing files
-process subset_reads {
-  tag "${accession}"
-  echo true
-  publishDir "results", mode: 'copy'
-
-
-  input: 
-  set val(accession), file(fastq_1), file(fastq_2) from ch_fastq_files
-
-  output: 
-  set val(accession), file(fastq_1), file(fastq_2) into ch_fastq_files_subsetted
-
-  script:
-  """
-  seqtk sample -s100 $fastq_1 1000 > sub1.fq
-  seqtk sample -s100 $fastq_2 1000 > sub2.fq
-  """
-}
 
 
 // Re-usable process skeleton that performs a simple operation, listing files
@@ -59,10 +38,10 @@ process fastqc {
 
 
   input: 
-  set val(accession), file(fastq_1), file(fastq_2) from ch_fastq_files_subsetted
+  set val(accession), file(fastq_1), file(fastq_2) from ch_fastq_files
 
   output: 
-  file "*_fastqc.{zip,html}" into ch_fastqc_results
+  file "*_fastqc.{zip,html}" into ch_results
 
   script:
   """
