@@ -30,16 +30,18 @@ Channel
     .set { ch_fastq_files }
 
 // Re-usable process skeleton that performs a simple operation, listing files
-process verify_files_are_retrieved {
+process fastqc {
   tag "${accession}"
   echo true
 
   input: 
   set val(accession), file(fastq_1), file(fastq_2) from ch_fastq_files
 
+  output: 
+  file "*_fastqc.{zip,html}" into ch_fastqc_results
+
   script:
   """
-  # List the files in the process to verify they have been retrieved
-  ls -lL
+  fastqc $fastq_1 $fastq_2
   """
 }
