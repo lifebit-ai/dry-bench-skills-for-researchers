@@ -28,7 +28,3 @@ A real gem for getting the specific download details - which are also multiple -
 In this case, the project **PRJNA637623** is put in the search line of the [SRA Explorer](https://sra-explorer.info).  Feel free to cut and paste the **PRJNA** number into the SRA Explorer window to reproduce those steps.
 
 Also shown in the following gif how to find sequences using this method is [here](../../../assets/SRARunExplorerGettingAllRunsForAProject.gif)
-
-
-
-
