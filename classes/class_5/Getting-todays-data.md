@@ -19,3 +19,9 @@ You will find 3 different data sets, which we will use to run the RNA-sequencing
 ## Selecting only the accessions
 
 The metadata file was edited using emacs - an editor available on most systems, to limit the full metadata list to just the [accessions](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/assets/editingSraExplorerMetadataFileToJustHaveAccessions.gif)
+
+## Flow chart for the RNA-seq workflow 
+
+Today we are running a forked version of the [nf-core RNASeq nextflow workflow](https://github.com/TheJacksonLaboratory/nf-core-rnaseq).   Nextflow has a lot of nice features when you are running, these options for everything from generating timing of execution, traces, to creating a directed-acyclic-graph (DAG).  You can find the documentation [here](https://www.nextflow.io/docs/latest/tracing.html).   I would check it out and have some fun exploring these options.
+
+For us, our [forked RNA-seq DAG](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/assets/flowchartNFCoreRNASeq.png|width=100)
