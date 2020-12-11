@@ -26,4 +26,4 @@ Today we are running a forked version of the [nf-core RNASeq nextflow workflow](
 
 For us, our 
 [forked RNA-seq DAG] 
-<img src="../../assets/flowchartNFCoreRNASeq.png" width="500">
+<img src="../../assets/flowchartNFCoreRNASeq.png" width="1000">
