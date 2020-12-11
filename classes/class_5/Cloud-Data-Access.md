@@ -6,6 +6,11 @@ Amazon has a number of publicly available and hosted resources and the ability t
 
 The site has webinars and videos that explain current activities.
 
+You can apply for [amazon research credits for your work here](https://aws.amazon.com/research-credits/).  
+
+Also the listing of what [amazon data sets are available in the cloud](https://registry.opendata.aws/)
+
+
 Lifebit, upon whose platform we have been taking this class also has a blog and a number of resources, [I encourage you to check out](https://lifebit.ai/) Including a webinar with Patrick Moss and a discussion about the Genomics England's plan for the citizens in the UK.   Patrick Moss makes a statement that the UK and Genomics England have come to the conclusion that Genomic Health is a Human Right.  [Check out the webinar].(https://lifebit.ai/webinar)
 
 
