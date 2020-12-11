@@ -1,5 +1,5 @@
 ## Todays data
-[!https://zenodo.org/badge/DOI/10.5281/zenodo.4317260.svg]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4317260.svg)](https://doi.org/10.5281/zenodo.4317260)
 
 Today - we used our SraExplorer to subset the data we were interested.  It is a short class, so we wanted a small dataset:
 
