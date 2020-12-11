@@ -1,4 +1,3 @@
-```bash
 ## Dry Bench Skills for Researchers Review 
 
 Today, this is our last class, and we want to begin with a small recap and an illustration of an end-to-end final result.
@@ -30,10 +29,8 @@ Thank you for being part of this pilot.  We aren't done yet, we will have each o
 
 ## Day 4
 
-Was our workflow [nextflow day])https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md)
+Was our workflow [nextflow day]https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md)
 
 ## Day 5
 
 Putting it all together for an end-to end solution
-
-
