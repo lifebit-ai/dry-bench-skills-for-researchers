@@ -24,4 +24,5 @@ The metadata file was edited using emacs - an editor available on most systems, 
 
 Today we are running a forked version of the [nf-core RNASeq nextflow workflow](https://github.com/TheJacksonLaboratory/nf-core-rnaseq).   Nextflow has a lot of nice features when you are running, these options for everything from generating timing of execution, traces, to creating a directed-acyclic-graph (DAG).  You can find the documentation [here](https://www.nextflow.io/docs/latest/tracing.html).   I would check it out and have some fun exploring these options.
 
-For us, our [forked RNA-seq DAG](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/assets/flowchartNFCoreRNASeq.png|width=100)
+For us, our 
+![forked RNA-seq DAG](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/assets/flowchartNFCoreRNASeq.png|width=100)
