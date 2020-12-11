@@ -16,7 +16,7 @@
 
 | Time        | Programme       |
 | ----------- | --------------------------------------------------------------------------- |
-| 12.00 - 12.10 | _Course recap and agenda for the day_  |
+| 12.00 - 12.10 | _Course Agenda_ [recap](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Dry-Bench-Skills-Recap.md),[Getting Controlled Access Data](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Cloud-Data-Access.md), [Illustrative end-to-end Example](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Illustrative-Example.md) and [Getting today's data](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Getting-todays-data.md)|
 | 12.10 - 12.20 | 1. [Nextflow concepts: Configuration files and revisitting reproducibility]() |
 | 12.20 - 13.00 | 2. [Nextflow <img src="https://github.com/cgpu/staries/raw/master/assets/logos/nextflow.png"  width="16">  and nf-core <img src="https://github.com/cgpu/staries/raw/master/assets/logos/nf-core.png"  width="16"> , utilising community available resources for analyses]() |
 | 13.00 - 13.10 |:coffee: Short break |
