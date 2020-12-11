@@ -10,6 +10,7 @@ You can apply for [amazon research credits for your work here](https://aws.amazo
 
 Also the listing of what [amazon data sets are available in the cloud](https://registry.opendata.aws/)
 
+Additionally, you can see what data are hosted at [Amazon](https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc)
 
 Lifebit, upon whose platform we have been taking this class also has a blog and a number of resources, [I encourage you to check out](https://lifebit.ai/) Including a webinar with Patrick Moss and a discussion about the Genomics England's plan for the citizens in the UK.   Patrick Moss makes a statement that the UK and Genomics England have come to the conclusion that Genomic Health is a Human Right.  [Check out the webinar].(https://lifebit.ai/webinar)
 
