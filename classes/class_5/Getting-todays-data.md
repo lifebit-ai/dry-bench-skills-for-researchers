@@ -15,7 +15,7 @@ You will find 3 different data sets, which we will use to run the RNA-sequencing
 64604[All Fields]** also in [Sra-explorer](https://sra-explorer.info/#)
 
 3. Then we selected all the samples, clicked on the **Full Metadata** tab and downloaded these files to our laptop and 
-![uploaded them to Zenodo shown in the gif here](../../assets/selectClass5ProjectForRNASeqAnalysisSRAExplorer.gif =100x)
+[uploaded them to Zenodo shown in the gif here](../../assets/selectClass5ProjectForRNASeqAnalysisSRAExplorer.gif)
 
 ## Selecting only the accessions
 
