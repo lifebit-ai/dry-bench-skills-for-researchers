@@ -17,6 +17,6 @@ Typically, it is reviewed by a data access committee and approved accordingly.
 
 Data access usually lasts for about 1 year, at the end of which a report must be made.
 
-Access usually involves a Signing Official from your organization.   This is the case for applying for access to data from the Database of Phenotypes and Genotypes.
+Access usually involves a Signing Official from your organization.   This is the case for applying for access to data from the [Database of Phenotypes and Genotypes.](https://www.ncbi.nlm.nih.gov/gap/)
 
 When approved - you sign in and you are presented with a login screen that gives you the ability to access the data.
