@@ -29,8 +29,8 @@ Thank you for being part of this pilot.  We aren't done yet, we will have each o
 
 ## Day 4
 
-Was our workflow [nextflow day]https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md)
+We focused the entire day on learning the workflow language [nextflow day](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md)
 
 ## Day 5
 
-Putting it all together for an end-to end solution
+Today, we focused on putting it all together for an end-to end solution, executing a community-based standard nextflow workflow from [nf-core](https:/nf-co.re/)
