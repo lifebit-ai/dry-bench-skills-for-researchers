@@ -5,7 +5,7 @@
 <br/><br/>
 
 
-# Introduction to Nextflow
+# Running an End-to-End experiment with an RNA-seq Nextflow Workflow
 
 <br/><br/>
 
