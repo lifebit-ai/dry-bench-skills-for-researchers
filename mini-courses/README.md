@@ -10,7 +10,7 @@
 ## Mini courses
 Today we begin our bi-weekly series, focusing on little bites to introduce you to topics that facilitate your research by providing support and skills to help you create reproducible work, both in workflows and in your analyses, at scale and in the cloud, as well as show how you can do this work .  Every two weeks, beginning today, we will tackle a new topic.
 
-Thursday, March 25 ([Agenda](1_variant_calling/README.md) **Short course on how to perform germline or somatic variant calling with nf-core/sarek**
+Thursday, March 25 - **Short course on how to perform germline or somatic variant calling with nf-core/sarek** ([Agenda](1_variant_calling/README.md) 
 
 ## INSTRUCTORS
 - Anne Deslattes Mays, Ph.D., Science and Technology Consulting LLC
