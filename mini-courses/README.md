@@ -28,7 +28,8 @@ If you don't have a GitHub account, please create one here:
 
 And email your newly created username to adeslat@scitechcon.org and we will create a single mail to add all attendees to the https://github.com/TheJacksonLaboratory GitHub repository, where all your projects should live for your lab.
 
-Read some exercises you can try at home, from our previous classes:
+Here is some readding and some exercises you can try at home, from our previous classes:
+
 [Using the command-line](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_1/1-using-the-command-line.ipynb)
 
 [Why Git and GitHub?](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/1-why-git-and-setup.md)
