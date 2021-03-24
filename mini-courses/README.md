@@ -13,8 +13,8 @@ Today we begin our bi-weekly series, focusing on little bites to introduce you t
 Thursday, March 25 - **Short course on how to perform germline or somatic variant calling with nf-core/sarek** ([Agenda](1_variant_calling/README.md)) 
 
 ## INSTRUCTORS
-- [Anne Deslattes Mays](adeslat@scitechcon.org), Ph.D., Science and Technology Consulting LLC
-- [Christina Chatzipantsiou](christina@lifebit.ai), Lifebit
+- [Anne Deslattes Mays](mailto:adeslat@scitechcon.org), Ph.D., Science and Technology Consulting LLC
+- [Christina Chatzipantsiou](mailto:christina@lifebit.ai), Lifebit
 
 ## ABOUT
 The practice of biological inquiry has evolved so that a biological researcher's training must include both wet-lab and dry lab experimental and computational approaches. This course seeks to lay a broad foundation for the dry bench researcher. It is clear that "data literacy is a key skill in the modern world." This course will introduce the trainee to the computational techniques that enable data analysis locally on their laptop and as well as how to enable these same analysis techniques in the cloud.
