@@ -17,7 +17,6 @@ Thursday, March 25 - **Short course on how to perform germline or somatic varian
 - [Christina Chatzipantsiou](mailto:christina@lifebit.ai), Lifebit
 
 ## ABOUT
-The practice of biological inquiry has evolved so that a biological researcher's training must include both wet-lab and dry lab experimental and computational approaches. This course seeks to lay a broad foundation for the dry bench researcher. It is clear that "data literacy is a key skill in the modern world." This course will introduce the trainee to the computational techniques that enable data analysis locally on their laptop and as well as how to enable these same analysis techniques in the cloud.
 
 These hands-on mini courses will serve as an introduction to reproducible workflows using Nextflow based pipelines for NGS analyses. The expected outcome of the short course is for the attendees to familiarise with the variant calling workflow, and be able to run locally, on platforms with SLURM executors and on JAX CloudOS on Google Cloud Platform an end-to-end analyses, started from FASTQ and getting output VCF files. We assume that the attendees have basic minimal familiarity with bash scripting and git. 
 
