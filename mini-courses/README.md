@@ -10,7 +10,7 @@
 ## Mini courses
 Today we begin our bi-weekly series, focusing on little bites to introduce you to topics that facilitate your research by providing support and skills to help you create reproducible work, both in workflows and in your analyses, at scale and in the cloud, as well as show how you can do this work .  Every two weeks, beginning today, we will tackle a new topic.
 
-Thursday, March 25 - **Short course on how to perform germline or somatic variant calling with nf-core/sarek** ([Agenda](1_variant_calling/README.md) 
+Thursday, March 25 - **Short course on how to perform germline or somatic variant calling with nf-core/sarek** ([Agenda](1_variant_calling/README.md)) 
 
 ## INSTRUCTORS
 - Anne Deslattes Mays, Ph.D., Science and Technology Consulting LLC
@@ -21,7 +21,11 @@ The practice of biological inquiry has evolved so that a biological researcher's
 
 These hands-on mini courses will serve as an introduction to reproducible workflows using Nextflow based pipelines for NGS analyses. The expected outcome of the short course is for the attendees to familiarise with the variant calling workflow, and be able to run locally, on platforms with SLURM executors and on JAX CloudOS on Google Cloud Platform an end-to-end analyses, started from FASTQ and getting output VCF files. We assume that the attendees have basic minimal familiarity with bash scripting and git. 
 
-## NOTE: 
+## SUPPORTING MATERIALS
+
+[Git GitHub Hello World 10 minute read)(https://guides.github.com/activities/hello-world/)
+
+## NOTE
 An environment with all the required computational tools will be provided to the attendees of the workshop, hence there is no requirement for a personal computer with a specific OS (eg. Linux, Windows) for attending this workshop.
 
 ## Platform:
