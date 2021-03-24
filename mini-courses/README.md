@@ -21,9 +21,25 @@ The practice of biological inquiry has evolved so that a biological researcher's
 
 These hands-on mini courses will serve as an introduction to reproducible workflows using Nextflow based pipelines for NGS analyses. The expected outcome of the short course is for the attendees to familiarise with the variant calling workflow, and be able to run locally, on platforms with SLURM executors and on JAX CloudOS on Google Cloud Platform an end-to-end analyses, started from FASTQ and getting output VCF files. We assume that the attendees have basic minimal familiarity with bash scripting and git. 
 
-## SUPPORTING MATERIALS
+## PRE-ATTENDENCE READING and ACTIVITIES
 
-[Git GitHub Hello World 10 minute read)(https://guides.github.com/activities/hello-world/)
+If you don't have a GitHub account, please create one here:
+[Git Sign up - create an account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+
+And email your newly created username to adeslat@scitechcon.org and we will create a single mail to add all attendees to the https://github.com/TheJacksonLaboratory GitHub repository, where all your projects should live for your lab.
+
+Read some exercises you can try at home, from our previous classes:
+[Using the command-line](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_1/1-using-the-command-line.ipynb)
+
+[Why Git and GitHub?](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/1-why-git-and-setup.md)
+
+[Git Routines - Fork a Repository](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/2-the-fork-git-routine.ipynb)
+
+[Git Routines - Collaborating with Git](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/3-the-add-push-git-routine.ipynb)
+
+Extra reading for GitHub fun.
+[Git GitHub Hello World 10 minute read](https://guides.github.com/activities/hello-world/)
+
 
 ## NOTE
 An environment with all the required computational tools will be provided to the attendees of the workshop, hence there is no requirement for a personal computer with a specific OS (eg. Linux, Windows) for attending this workshop.
