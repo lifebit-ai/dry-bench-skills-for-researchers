@@ -1,11 +1,8 @@
 # Dry bench skills for Researchers
-<p align="center">
-  <img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/adds-mini-courses/assets/JAX.Lifebit.SciTechCon.png"  width="250" align="right" >
-</p>
 
 ## Topics of Interest
 
-|   |   |   |   |
+|   |   |   | <p align="center"><img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/adds-mini-courses/assets/JAX.Lifebit.SciTechCon.png"  width="250" align="right" ></p> |
 |---|---|---|---|
 | [Variant Calling Sarek](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/adds-mini-courses/mini-courses/1_variant_calling) | [End-to-End Example](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Illustrative-Example.md)| [Nextflow resources](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/2-nextflow-resources.md)| [Nextflow](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md) | 
 | [Finding Data](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/BONUS-Finding-Data.md) | [Docker Build Test Share Reuse](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_3/2-build-test-share-reuse-docker.ipynb) | [Conda for managing dependencies](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_3/1-conda-for-managing-dependencies.ipynb) | [Git Add Git Commit](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/3-the-add-push-git-routine.ipynb) |
