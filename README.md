@@ -5,13 +5,14 @@
 
 # Dry bench skills for Researchers
 
-![](assets/header.png)
-
 ## Topics of Interest
 
-| -------------------------- | ----------------------- | ---------------------- | ------------ |
-| [Variant Calling Sarek](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/adds-mini-courses/mini-courses/1_variant_calling)  | [End-to-End Example](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Illustrative-Example.md)   | [Nextflow resources](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/2-nextflow-resources.md) | [Nextflow](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md) | 
-| [Finding Data]()           | [Docker Build Test Share Reuse]() | [Conda for managing dependencies]() | [Git Add Git Commit]() |
+|   |   |   |   |
+|---|---|---|---|
+| [Variant Calling Sarek](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/adds-mini-courses/mini-courses/1_variant_calling) | [End-to-End Example](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Illustrative-Example.md)| [Nextflow resources](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/2-nextflow-resources.md)| [Nextflow](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md) | 
+| [Finding Data](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/BONUS-Finding-Data.md) | [Docker Build Test Share Reuse](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_3/2-build-test-share-reuse-docker.ipynb) | [Conda for managing dependencies](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_3/1-conda-for-managing-dependencies.ipynb) | [Git Add Git Commit](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/3-the-add-push-git-routine.ipynb) |
+| [Forking in GitHub](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/2-the-fork-git-routine.ipynb) | [Why Git and GitHub](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/1-why-git-and-setup.md) | [Reading Data and Plotting in R](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_1/2-reading-data-and-plotting-in-R.ipynb) | [Command Line Skills](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_1/1-using-the-command-line.ipynb) |
+
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4317512.svg)](https://doi.org/10.5281/zenodo.4317512)
