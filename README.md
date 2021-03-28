@@ -10,11 +10,13 @@
 
 ## ABOUT
 
-The practice of biological inquiry has evolved so that a biological researcher's training must include both wet-lab and dry lab experimental and computational approaches. This course seeks to lay a broad foundation for the dry bench researcher. It is clear that "data literacy is a key skill in the modern world." This course will introduce the trainee to the computational techniques that enable data analysis locally on their laptop and as well as how to enable these same analysis techniques in the cloud.
+The practice of biological inquiry has evolved so that a biological researcher's training must include both wet-lab and dry lab experimental and computational approaches. This course seeks to lay a broad foundation for the dry bench researcher. It is clear that "data literacy is a key skill in the modern world." The pilot course held in December 2020 introduced the trainees to the computational techniques that enable data analysis locally on their laptop and as well as how to enable these same analysis techniques in the cloud.
 
-In this workshop, we will also introduce the learner to the concept of team science. The learner will obtain critical skills in effective collaboration that is imperative in a world where the amount of data available is beyond a single lab's walls.
+The training continues through a series of mini-courses held virtually to provide learners with critical skills in effective collaboration imperative in a world where the data available for analysis is often beyond a single lab's walls.
 
-Over 10 hours of instruction, spread over two weeks, we seek to introduce the learner to RNAseq analysis and demystify concepts in RNAseq analysis. By the end of the course, the learner can successfully use tools involved in these analyses collaboratively and independently. This course aims to go broad and point the learner to learn more and take their knowledge deeper. Through their participation in the class, learners will acquire experience in a full suite of tools essential to any bioinformatics analysis. They will learn and understand FAIR best practices. They will obtain and use their GitHub, Docker, and ORCID ids. They will know where to find Nextflow workflows and run them to generate results that are further explored through interactive Jupyter Lab notebooks. They will learn about publicly available datasets downloadable from cloud resources and the ever-growing datasets that may aid their research. They will learn about using flexible, powerful, and community-based workflow languages such as Nextflow and how the resulting  workflows use containerization to modularize and simplify bioinformatic analysis. Such workflows will be run using cloud-accessible data in the cloud and on their laptop. The course's final day will focus on pulling together all these resources into a single end-to-end example to empower the trainee to apply new knowledge towards their specific use case.
+Initially, in the December Pilot course 10 hours of instruction, spread over two weeks introduced the learner to RNAseq analysis and sought to demystify and make accessible the steps RNAseq analysis. By the end of the course, the learner was able to use the tools involved in these analyses collaboratively and independently. The course aimed to go broad and point the learner to learn more and take their knowledge deeper. Through their participation in the class, learners acquired experience in a full suite of tools essential to any bioinformatics analysis. They will learn and understand FAIR (findability, accessibility, interoperability and reusability) best practices.  GitHub, Docker, and ORCID ids were obtained if not already in hand.  Learners found Nextflow workflows and ran them on Lifebit's CloudOS generating results which were further explored through interactive JupyterLab notebooks. Learners used SRAExplorer and other tools to access existing publicly available datasets using cloud resources, learning where to search for ever-growing cloud accessible datasets that may aid their research. Learners gained insight regarding best practices in using flexible, powerful, and community-based workflow languages such as Nextflow and how these workflows use containerization for modularization and simplification of bioinformatic analysis. Such workflows will be run using cloud-accessible data in the cloud and on their laptop. 
+
+Material from the original course and a growing number of other courses are found now in this repository.
 
 ## TOOLS
 
@@ -30,8 +32,11 @@ Pre-course materials as well as in-class exercises will cover the following topi
 
 ## PLATFORM
 
+<p align="center"><img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/adds-mini-courses/assets/lifebitCloudOS.png"  width="250" align="right" ></p>
+
 Learners will use Lifebit's CloudOS platform for this course. Requirements include the availability of a laptop, as they will then have the ability to log into a browser to access the course materials (Chrome preferred).
 
 ## INSTRUCTORS
+
 - Anne Deslattes Mays, Ph.D., Science and Technology Consulting LLC
 - Christina Chatzipantsiou, Lifebit
