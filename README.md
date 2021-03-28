@@ -7,9 +7,16 @@
 
 ![](assets/header.png)
 
+## Topics of Interest
+
+|----------------------------|------------------------ -|------------------------|--------------|
+| [Variant Calling Sarek](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/adds-mini-courses/mini-courses/1_variant_calling)  | [End-to-End Example](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Illustrative-Example.md)   | [Nextflow resources](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/2-nextflow-resources.md) | [Nextflow](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md) | 
+| [Finding Data]()           | [Docker Build Test Share Reuse]() | [Conda for managing dependencies]() | [Git Add Git Commit]() |
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4317512.svg)](https://doi.org/10.5281/zenodo.4317512)
 
-## SCHEDULE
+## 2020 December Class
 This virtual course will take place from 12:00 to 2:00 pm (Eastern Time) over five nonconsecutive days:
 
 1. Wednesday, December 2 ([Agenda](classes/class_1/README.md)) ✅ ([Slides](assets/DryBenchResearcherDay1.pdf)) ✅ ([Recording](https://vimeo.com/486838280/7ed3c2fa40)) ✅ 
