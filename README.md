@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://static.wixstatic.com/media/b34882_b300f090387248599125482b6750206c.jpg"  width="250" align="right" >
-</p>
-
-
 # Dry bench skills for Researchers
-
 <p align="center">
   <img src="https://static.wixstatic.com/media/b34882_b300f090387248599125482b6750206c.jpg"  width="250" align="right" >
 </p>
