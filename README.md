@@ -9,7 +9,7 @@
 
 ## Topics of Interest
 
-|----------------------------|------------------------ -|------------------------|--------------|
+|----------------------------|-------------------------|------------------------|--------------|
 | [Variant Calling Sarek](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/adds-mini-courses/mini-courses/1_variant_calling)  | [End-to-End Example](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Illustrative-Example.md)   | [Nextflow resources](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/2-nextflow-resources.md) | [Nextflow](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md) | 
 | [Finding Data]()           | [Docker Build Test Share Reuse]() | [Conda for managing dependencies]() | [Git Add Git Commit]() |
 
