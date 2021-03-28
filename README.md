@@ -1,6 +1,6 @@
 # Dry bench skills for Researchers
 <p align="center">
-  <img src="https://static.wixstatic.com/media/b34882_b300f090387248599125482b6750206c.jpg"  width="250" align="right" >
+  <img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/adds-mini-courses/assets/JAX.Lifebit.SciTechCon.png"  width="250" align="right" >
 </p>
 
 ## Topics of Interest
