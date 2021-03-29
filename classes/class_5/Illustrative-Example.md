@@ -4,7 +4,7 @@ A paper that has now been submitted to Science Advances and is in BioRxiv illust
 
 The [Impact of Sex on Alternative Splicing](https://www.biorxiv.org/content/10.1101/490904v2), uses data from dbGaP, the Gene Tissue Expression Data set which is controlled access.
 
-The code for this paper is on [GitHub](https://github.com/TheJacksonLaboratory/sbas/edit/master/README.md)
+The code for this paper is on [GitHub](https://github.com/TheJacksonLaboratory/sbas)
 
 Get access to the Genotype-Tissue Expression [GTEx](https://www.gtexportal.org/home/) RNAseq data (an application to dbGAP for access to the dataset phs000424.v8.v2 is required)
 
