@@ -5,7 +5,7 @@
 <br/><br/>
 
 
-# Discovering SRunning an End-to-End RNAseq Workflow
+# Discovering SRA data and running an End-to-End RNAseq Workflow
 
 <br/><br/>
 
