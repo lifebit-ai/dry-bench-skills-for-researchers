@@ -10,8 +10,10 @@
 ## Mini courses
 Today we begin our bi-weekly series, focusing on little bites to introduce you to topics that facilitate your research by providing support and skills to help you create reproducible work, both in workflows and in your analyses, at scale and in the cloud, as well as show how you can do this work .  Every two weeks, beginning today, we will tackle a new topic.
 
-Thursday, March 25 - **Short course on how to perform germline or somatic variant calling with nf-core/sarek** ([Agenda](1_variant_calling/README.md)) 
-Thursday, April 8  - **Discovering SRA data and running an End-to-End RNAseq Workflow** ([Agenda](2_sra_and_rnaseq/README.md))
+| Date        | Programme       | Agenda |
+| ----------- | --------------------------------------------------------------------------- |
+|Thursday, March 25, 2021 | **Short course on how to perform germline or somatic variant calling with nf-core/sarek** | ([Agenda](1_variant_calling/README.md)) |
+|Thursday, April 8, 2021 | **Discovering SRA data and running an End-to-End RNAseq Workflow** |([Agenda](2_sra_and_rnaseq/README.md)) |
 
 ## INSTRUCTORS
 - [Anne Deslattes Mays](mailto:adeslat@scitechcon.org), Ph.D., Science and Technology Consulting LLC
