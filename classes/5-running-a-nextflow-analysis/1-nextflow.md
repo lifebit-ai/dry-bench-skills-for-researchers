@@ -214,7 +214,7 @@ It is typical practice to store such configuration files inside a folder named `
 
 
 ```bash
-# contents of class_5 folder
+# contents of 5-running-a-nextflow-analysis folder
 
 conf/
 └── test.config
