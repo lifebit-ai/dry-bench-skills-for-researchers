@@ -1,7 +1,7 @@
 # Dry bench skills for Researchers
 
 ## Topics of Interest
-|   |   |   | <p align="center"><img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/adds-mini-courses/assets/lifebitCloudOS.png"  width="250" align="right" ></p> |
+|   |   |   | <p align="center"><img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/assets/lifebitCloudOS.png"  width="250" align="right" ></p> |
 |---|---|---|---|
 |[SRA and RNAseq](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/main/mini-courses/2_sra_and_rnaseq) |[Variant Calling Sarek](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/adds-mini-courses/mini-courses/1_variant_calling) | [End-to-End Example](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/Illustrative-Example.md) | 
 | [Nextflow resources](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_5/2-nextflow-resources.md)| [Nextflow](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_4/nextflow.md) | 
