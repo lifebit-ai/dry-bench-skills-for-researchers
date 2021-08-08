@@ -41,7 +41,7 @@ Here is some readding and some exercises you can try at home, from our previous 
 
 [Why Git and GitHub?](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/2-intro-to-git-github/1-why-git-and-setup.md)
 
-[Git Routines - Fork a Repository](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/2-the-fork-git-routine.ipynb)
+[Git Routines - Fork a Repository](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/2-intro-to-git-github/2-the-fork-git-routine.ipynb)
 
 [Git Routines - Collaborating with Git](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/2-intro-to-git-github/3-the-add-push-git-routine.ipynb)
 
