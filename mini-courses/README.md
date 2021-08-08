@@ -43,7 +43,7 @@ Here is some readding and some exercises you can try at home, from our previous 
 
 [Git Routines - Fork a Repository](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/2-the-fork-git-routine.ipynb)
 
-[Git Routines - Collaborating with Git](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/3-the-add-push-git-routine.ipynb)
+[Git Routines - Collaborating with Git](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/2-intro-to-git-github/3-the-add-push-git-routine.ipynb)
 
 Extra reading for GitHub fun.
 [Git GitHub Hello World 10 minute read](https://guides.github.com/activities/hello-world/)
