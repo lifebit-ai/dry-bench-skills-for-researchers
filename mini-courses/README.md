@@ -37,7 +37,7 @@ And email your newly created username to adeslat@scitechcon.org and we will crea
 
 Here is some readding and some exercises you can try at home, from our previous classes:
 
-[Using the command-line](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/tree/main/classes/1-using-the-command-line)
+[Using the command-line](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/1-using-the-command-line/1-using-the-command-line.ipynb)
 
 [Why Git and GitHub?](https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/classes/class_2/1-why-git-and-setup.md)
 
