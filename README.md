@@ -33,7 +33,7 @@ Pre-course materials as well as in-class exercises will cover the following topi
 
 ## PLATFORM
 
-<p align="center"><img src="https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/adds-mini-courses/assets/lifebitCloudOS.png"  width="250" align="right" ></p>
+<p align="center"><img src=""https://github.com/lifebit-ai/dry-bench-skills-for-researchers/blob/main/assets/lifebitCloudOS.png" width="250" align="right" ></p>
 
 Learners will use Lifebit's CloudOS platform for this course. Requirements include the availability of a laptop, as they will then have the ability to log into a browser to access the course materials (Chrome preferred).
 
